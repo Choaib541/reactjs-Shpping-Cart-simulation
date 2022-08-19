@@ -1,0 +1,18 @@
+:root {
+    --bg: #1f1f1c;
+    --text: #fff;
+}
+
+* {
+}
+
+a,
+img,
+span {
+    display: block;
+}
+
+body {
+    background: var(--bg);
+    color: var(--text);
+}
